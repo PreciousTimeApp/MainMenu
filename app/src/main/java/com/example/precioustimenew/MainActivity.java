@@ -9,13 +9,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-    /*
-    public EditText personalNumber;
-    public EditText id;
-    public EditText password;
-    public Button login;
-    public Button signup;
-*/
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {    //what happens once the first screen up
         super.onCreate(savedInstanceState);
