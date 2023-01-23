@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "45633943188",
+    "firebase_url": "https://precioustime-one-default-rtdb.firebaseio.com",
+    "project_id": "precioustime-one",
+    "storage_bucket": "precioustime-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45633943188:android:5080364f9dc3f12f4b2681",
+        "android_client_info": {
+          "package_name": "com.example.precioustime_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45633943188-eshna487av4kb6pgomkpc0h6ahi67orr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwLSCu6eUyfEbR7mtWONs28XiPctUlaxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45633943188-eshna487av4kb6pgomkpc0h6ahi67orr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

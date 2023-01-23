@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">PreciousTimeNew</string>
-    <string name="precious_time">Precious time</string>
+    <string name="app_name">PreciousTime-one</string>
+    <string name="precioustime">PreciousTime</string>
+    <string name="add_task">Add Task</string>
+    <string name="task">Task</string>
+    <string name="name_warrior">Name Warrior</string>
+    <string name="warrior_name" />
+    <string name="new_task" />
 </resources>
